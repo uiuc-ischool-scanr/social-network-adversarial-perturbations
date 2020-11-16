@@ -1,4 +1,4 @@
-# Graph Simulation Framework
+# Adversarial Network Simulation and Analysis Framework
 
 An open-source framework to assess the robustness of network structures and metrics to adversarial attacks and ascertain adversarial attack patterns.
 
