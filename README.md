@@ -64,7 +64,7 @@ Everything starts from the main `advlearnsocgraph_main.py` file which, when exec
 
 ## Citation
 * Parulian, N. N., Lu, T., Mishra, S., Avram, M., & Diesner, J. (2020). Effectiveness of the Execution and Prevention of Metric-Based Adversarial Attacks on Social Network Data. Information, 11(6), 306.
-* Avram MV, Mishra S, Parulian N, & Diesner J (2019) Adversarial perturbations to manipulate the perception of power and influence in networks. In proceedings of Workshop on Social Influence at ASONAM '19. 
+* Avram, M. V., Mishra, S., Parulian, N. N., & Diesner, J. (2019, August). Adversarial perturbations to manipulate the perception of power and influence in networks. In 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM) (pp. 986-994). IEEE.
 
 
 ## Other Important Details
