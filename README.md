@@ -1,6 +1,6 @@
 # Adversarial Network Simulation and Analysis Framework
 
-An open-source framework to assess the robustness of network structures and metrics to adversarial attacks and ascertain adversarial attack patterns.
+An open-source framework that allows researchers to assess the robustness of network structures and metrics after adversarial attacks. Our approach also allows the exploration of mitigation strategies. 
 
 ##### Development Goal
 
